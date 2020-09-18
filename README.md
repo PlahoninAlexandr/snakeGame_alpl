@@ -1,2 +1,2 @@
 # snakeGame_alpl
-https://plahoninalexandr.github.io/snakeGame_alpl/snakeGame.html
+click here --> https://plahoninalexandr.github.io/snakeGame_alpl/snakeGame.html
